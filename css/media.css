@@ -1,0 +1,591 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  /* CSS */
+
+/*common css part start*/
+.c-margin{
+  margin-top: 35px;
+}
+.common-heading h1{
+  padding-bottom: 20px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+}
+span{
+  display: inline;
+}
+
+/*  header part start*/
+.banner-text p:first-child {
+    margin-top: 0px !important;
+}
+.navbar-nav{
+  text-align: right !important;
+}
+
+.cu-navbar ul li a{
+font-size:  14px;
+line-height: 22px;
+margin-right: 0px;
+}
+
+/*banner part start*/
+  .banner{
+  padding: 30px 0;
+}
+.banner-text p{
+    line-height: 22px;
+}
+.banner-text p:first-child {
+  margin-top: 25px;
+
+}
+.banner-text h1{
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  padding: 15px 0;
+}
+
+.banner-text a {
+    padding: 10px 20px;
+}
+.banner-image{
+  margin-top: 20px;
+}
+
+/*feature part start*/
+.inner-feature{
+  margin-top: 30px;
+  padding: 25px;
+}
+
+.inner-feature img{
+  width: 45px;
+  height: 65px;
+  margin-bottom: 20px;
+}
+.inner-feature h2{
+  font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+color: #413960;
+}
+
+/*courses part start*/
+
+.courses .card .card-body h2{
+font-size: 16px;
+line-height: 24px;
+
+}
+
+.courses .card .card-body p{
+  line-height: 22px;
+}
+.courses .card .card-body a {
+    margin-bottom: 20px;
+}
+
+.courses .card .card-body .info {
+font-size: 14px;
+}
+
+/*testimonials part start*/
+.testimonials .inner-testimonials p img{
+  width: 80px;
+  height: auto;
+}
+
+.testimonials .inner-testimonials p{
+  font-size: 14px;
+line-height: 22px;
+}
+
+/*footer part start*/
+
+footer{
+  padding: 25px 0;
+  text-align: center;
+}
+
+.footer-text p{
+font-size: 14px;
+line-height: 22px;
+}
+footer .footer-link{
+  margin-top: 25px;
+}
+
+footer .footer-link h2{
+  font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+footer .footer-link ul li a{
+  font-size: 14px;
+
+}
+
+.f-copyright p{
+  line-height: 22px;
+margin-top: 25px;
+}
+
+
+
+
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  /*common css part start*/
+.c-margin{
+  margin-top: 35px;
+}
+.common-heading h1{
+  padding-bottom: 20px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+}
+span{
+  display: inline;
+}
+
+/*  header part start*/
+.banner-text p:first-child {
+    margin-top: 0px !important;
+}
+.navbar-nav{
+  text-align: right !important;
+}
+
+.cu-navbar ul li a{
+font-size:  14px;
+line-height: 22px;
+margin-right: 0px;
+}
+
+/*banner part start*/
+  .banner{
+  padding: 30px 0;
+}
+.banner-text p{
+    line-height: 22px;
+}
+.banner-text p:first-child {
+  margin-top: 25px;
+
+}
+.banner-text h1{
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  padding: 15px 0;
+}
+
+.banner-text a {
+    padding: 10px 20px;
+}
+.banner-image{
+  margin-top: 20px;
+}
+
+/*feature part start*/
+.inner-feature{
+  margin-top: 30px;
+  padding: 25px;
+}
+
+.inner-feature img{
+  width: 45px;
+  height: 65px;
+  margin-bottom: 20px;
+}
+.inner-feature h2{
+  font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+color: #413960;
+}
+
+/*courses part start*/
+
+.courses .card .card-body h2{
+font-size: 16px;
+line-height: 24px;
+
+}
+
+.courses .card .card-body p{
+  line-height: 22px;
+}
+.courses .card .card-body a {
+    margin-bottom: 20px;
+}
+
+.courses .card .card-body .info {
+font-size: 14px;
+}
+
+/*testimonials part start*/
+.testimonials .inner-testimonials p img{
+  width: 80px;
+  height: auto;
+}
+
+.testimonials .inner-testimonials p{
+  font-size: 14px;
+line-height: 22px;
+}
+
+/*footer part start*/
+
+footer{
+  padding: 25px 0;
+  text-align: center;
+}
+
+.footer-text p{
+font-size: 14px;
+line-height: 22px;
+}
+footer .footer-link{
+  margin-top: 25px;
+}
+
+footer .footer-link h2{
+  font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+footer .footer-link ul li a{
+  font-size: 14px;
+
+}
+
+.f-copyright p{
+  line-height: 22px;
+margin-top: 25px;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  /*common css part start*/
+.c-margin{
+  margin-top: 45px;
+}
+.common-heading h1{
+  padding-bottom: 25px;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+}
+span{
+  display: inline;
+}
+
+/*  header part start*/
+.banner-text p:first-child {
+    margin-top: 0px !important;
+}
+.navbar-nav{
+  text-align: right !important;
+}
+
+.cu-navbar ul li a{
+font-size:  14px;
+line-height: 22px;
+margin-right: 0px;
+}
+
+/*banner part start*/
+  .banner{
+  padding: 35px 0;
+}
+.banner-text p{
+    line-height: 22px;
+}
+.banner-text p:first-child {
+  margin-top: 25px;
+
+}
+.banner-text h1{
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+  padding: 25px 0;
+}
+
+.banner-text a {
+    padding: 10px 20px;
+}
+.banner-image{
+  margin-top: 40px;
+}
+
+/*feature part start*/
+.inner-feature{
+  margin-top: 30px;
+  padding: 25px;
+}
+
+.inner-feature img{
+  width: 45px;
+  height: 65px;
+  margin-bottom: 20px;
+}
+.inner-feature h2{
+  font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+color: #413960;
+}
+
+/*courses part start*/
+
+.courses .card .card-body h2{
+font-size: 16px;
+line-height: 24px;
+
+}
+
+.courses .card .card-body p{
+  line-height: 22px;
+}
+.courses .card .card-body a {
+    margin-bottom: 20px;
+}
+
+.courses .card .card-body .info {
+font-size: 14px;
+}
+
+/*testimonials part start*/
+.testimonials .inner-testimonials p img{
+  width: 80px;
+  height: auto;
+}
+
+.testimonials .inner-testimonials p{
+  font-size: 14px;
+line-height: 22px;
+}
+
+/*footer part start*/
+
+footer{
+  text-align: left !important;
+  padding: 25px 0;
+}
+
+.footer-text p{
+font-size: 14px;
+line-height: 22px;
+}
+footer .footer-link h2{
+  font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+footer .footer-link ul li a{
+  font-size: 14px;
+
+}
+
+.f-copyright p{
+  line-height: 22px;
+margin-top: 25px;
+}
+
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+    /*common css part start*/
+.c-margin{
+  margin-top: 65px;
+}
+.common-heading h1{
+  padding-bottom: 45px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 30px;
+}
+span{
+  display: inline;
+}
+
+/*  header part start*/
+.banner-text p:first-child {
+    margin-top: 0px !important;
+}
+.navbar-nav{
+  text-align: right !important;
+}
+
+.cu-navbar ul li a{
+font-size:  14px;
+line-height: 22px;
+margin-right: 0px;
+}
+.cu-navbar .btn{
+  background-color: #21B573;
+  border-radius: 50px;
+  color: #fff;
+  padding: 10px 20px !important;
+  transition: .4s;
+}
+/*banner part start*/
+  .banner{
+  padding: 35px 0;
+}
+.banner-text p{
+    line-height: 22px;
+}
+.banner-text p:first-child {
+  margin-top: 35px;
+
+}
+.banner-text h1{
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+  padding: 25px 0;
+}
+
+.banner-text a {
+    padding: 10px 20px;
+}
+
+/*feature part start*/
+.inner-feature{
+  margin-top: 30px;
+  padding: 25px;
+}
+
+.inner-feature img{
+  width: 45px;
+  height: 65px;
+  margin-bottom: 20px;
+}
+.inner-feature h2{
+  font-weight: 600;
+font-size: 20px;
+line-height: 16px;
+color: #413960;
+}
+
+/*courses part start*/
+
+.courses .card .card-body h2{
+font-size: 20px;
+line-height: 24px;
+
+}
+
+.courses .card .card-body p{
+  line-height: 24px;
+}
+.courses .card .card-body a {
+    margin-bottom: 24px;
+}
+
+.courses .card .card-body .info {
+font-size: 14px;
+}
+
+/*testimonials part start*/
+.testimonials .inner-testimonials p img{
+  width: 90px;
+  height: auto;
+}
+
+.testimonials .inner-testimonials p{
+  font-size: 14px;
+line-height: 22px;
+}
+
+/*footer part start*/
+
+footer{
+  text-align: left !important;
+  padding: 45px 0;
+  text-align: center;
+}
+
+.footer-text p{
+font-size: 14px;
+line-height: 24px;
+}
+
+footer .footer-link h2{
+  font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+}
+footer .footer-link ul li a{
+  font-size: 14px;
+
+}
+
+.f-copyright p{
+  line-height: 22px;
+margin-top: 25px;
+}
+
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
